@@ -1,0 +1,103 @@
+* {margin: 0;
+    font-family: Arial, Helvetica, sans-serif;}
+#showcase {background: url('../fullscreenlanding/Beach-sea-foam-seashell_1920x1200.jpg');
+ background-size: cover;
+ background-position: center left;
+/* width: 100%; */
+height: 500;
+
+text-align: center;
+
+
+}
+
+#showcase_div {
+    padding: 187px; 
+    color: #926239;
+ 
+
+}
+
+#showcase_div a {
+    display: inline-block;
+    color: #926239;
+    text-decoration: none;
+    border: 2px solid  #926239;
+    padding: 15px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+#showcase_div p {
+    padding: 12px;
+}
+
+#showcase_div a:hover{
+    color: white;
+    border-color: white;
+    background-color: #926239;
+}
+
+
+#showcase h1 {margin: 0;
+    font-size: 50px;
+    text-decoration: bold;
+}
+#showcase p {font-size: 20px;}
+
+#showcase a {font-size: 18px;}
+
+body {margin: 0;}
+
+#section_p1 {padding: 20px;
+background-color:#926239 ;}
+
+#section_p1 #p1 {line-height: 27px;
+text-align: center;
+color: white;}
+
+#section_p2{text-align: center;
+line-height: 27px;
+width: 100%;
+}
+
+#section_p2_1{width: 48%;
+display: inline-block;
+color: #926239;
+padding: 20px 0px 20px 28px;
+}
+
+#section_p2_2{width: 48%;
+    display: inline-block;
+    color: white;
+    background-color: #926239;
+    padding: 20px 28px 20px 0px;
+}
+
+#section_p3{text-align: center;
+    line-height: 27px;
+    height: 148;
+}
+
+#section_p3_1{display: inline-block;
+    width: 32%;
+    padding: 20px 0px 20px 20px;
+    color: white;
+    background-color: #926239;
+}
+
+#section_p3_2{display: inline-block;
+    width: 32%;
+    padding: 20px 5.8px;
+    color: #926239;
+    background-color: white;
+}
+
+#section_p3_3{display: inline-block;
+    width: 32%;
+    padding: 20px 20px 20px 0px;
+    color: white;
+    background-color: #926239;
+}
+
+
